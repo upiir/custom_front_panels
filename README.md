@@ -1,8 +1,28 @@
 # Custom Front Panels for Electronic Projects
 Custom Front Panels for Electronic Projects
 
-
 **YouTube video: https://youtu.be/B8baA8nBGnA**
+
+
+Links from the video:
+- Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir
+- Aluminium panels (business cards): https://s.click.aliexpress.com/e/_Dmbxap3
+- Solid Aluminium Knob: https://s.click.aliexpress.com/e/_DFPuloh
+- Big Black knob: https://s.click.aliexpress.com/e/_Aq1wGF
+- Huge Aluminium Knob: https://s.click.aliexpress.com/e/_Dlt9iKZ
+- LaserGRBL free laser engraver software: https://lasergrbl.com/
+- Vectorink free online vector editor: https://vectorink.io/app/
+- LightButn paid laser application: https://lightburnsoftware.com/
+
+
+Related videos with Arduino UNO and OLED screen:
+- Nextion displays: https://youtu.be/XtSo1BaJ6Bg
+- DWIN displays: https://youtu.be/ugS3rKBZVVc
+- Custom front panels with PCB: https://youtu.be/Q3iCfZVcUjU
+
+
+![THUMB_custom_front_panels](https://github.com/user-attachments/assets/2e286921-f15e-4671-9451-d6bdbffbe40d)
+
 
 
 
